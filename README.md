@@ -1,4 +1,4 @@
-# income-classifier-model
+# Income-classifier-model
 
 This repository contains a machine learning project that predicts whether an individual's income exceeds $50K per year based on various features such as age, workclass, education, and more. The project uses different classification algorithms to build predictive models.
 
