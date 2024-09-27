@@ -19,7 +19,7 @@ The goal of this project is to classify whether a person makes more than $50K pe
 2) Random Forest
 3) Logistic Regression
 4) K-Nearest Neighbors (KNN)
-5) Support Vector Machine (SVM)
+
 # Data
 The dataset contains demographic information and income levels. Below are the features used:
 
@@ -45,7 +45,7 @@ The Income feature is the target variable, which takes two values: <=50K and >50
 2) Random Forest Classifier
 3) Logistic Regression
 4) KNN Classifier
-5) SVM Classifier (Linear Kernel)
+
    
 Each model is evaluated on the test data to calculate performance metrics such as accuracy, precision, recall, F1-score, and misclassification rate. Confusion matrices and classification reports are generated for each model.
 
